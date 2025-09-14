@@ -24,17 +24,17 @@ npx expo start
 ```
 ---
 
-##📦 Download APK
+## 📦 Download APK
 
 👉 Download Calculator App (APK) https://drive.google.com/file/d/171S-J2JkBN6RfFGEQh1wDbY8K2x2nOhC/view?usp=drivesdk
 ---
-##🛠️ Built With
+## 🛠️ Built With
 
 React Native
 
 Expo
 ---
-##🤝 Contributing
+## 🤝 Contributing
 
 Fork this repo
 
