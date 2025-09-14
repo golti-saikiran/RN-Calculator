@@ -13,9 +13,6 @@ This project demonstrates the basics of building a mobile app using **React Nati
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots here after uploading to GitHub repo)  
-
 ```md
 ![Calculator Screenshot](./screenshots/calculator.png)
 git clone https://github.com/YOUR_USERNAME/Calculator-RN-app.git
@@ -25,18 +22,19 @@ npm install
 yarn install
 npx expo start
 ```
+---
 
-📦 Download APK
+##📦 Download APK
 
 👉 Download Calculator App (APK) https://drive.google.com/file/d/171S-J2JkBN6RfFGEQh1wDbY8K2x2nOhC/view?usp=drivesdk
-
-🛠️ Built With
+---
+##🛠️ Built With
 
 React Native
 
 Expo
-
-🤝 Contributing
+---
+##🤝 Contributing
 
 Fork this repo
 
